@@ -1,1 +1,1 @@
-# UTS-STKI
+# STKI
